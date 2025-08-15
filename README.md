@@ -22,4 +22,4 @@ This project involves analyzing eCommerce sales data to uncover key insights and
 A clean, dynamic, and user-friendly Power BI dashboard that provides valuable insights into eCommerce sales data, enabling stakeholders to make informed decisions.
 
 ![Dashboard](https://github.com/anand7061/portfolio/blob/main/Screenshot%202025-07-19%20124011.png)
-![Dashboard](https://github.com/anand7061/portfolio/blob/main/Screenshot%202025-07-19%20124158.png)
+
